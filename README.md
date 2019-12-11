@@ -16,7 +16,7 @@ Usage:
 3. Run OpenWeather.
 
 ```elixir
-$ souce .env
+$ source .env
 
 $ iex -S mix
 > OpenWeather.city('Accra')
