@@ -11,7 +11,7 @@ $ mix deps.get
 Usage:
 
 1. Create an openweather account at https://home.openweathermap.org/users/sign_up.
-2. Make a copy of the .env.example `cp .env.example .env`.
+2. Make a copy of the .env-example `cp .env.example .env`.
 2. Set your `OPENWEATHER_APPID` env var to your new openweather API key.
 3. Run OpenWeather.
 
